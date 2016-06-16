@@ -8,13 +8,7 @@ public class HelloWorld {
 	}
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to git");
-		System.out.println("Changes occured here");
-		
-		
-		System.out.println("Another changes occured here ");
-		
-		System.out.println("Third Change");
+		System.out.println("Welcome to Parkar");
+		System.out.println("Shree");
 	}
-
 }
