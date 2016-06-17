@@ -29,4 +29,3 @@ Parkar
 
 
 Seers
->>>>>>> d534d4982bbea3fdfb1a0db12fe7bda5c8e71be5
