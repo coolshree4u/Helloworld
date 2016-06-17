@@ -12,8 +12,6 @@ public class HelloWorld {
 		for(int i=0;i<10;i++)
 		System.out.println("More Patil");
 
-
-		System.out.println("Welcome Here for merge into master");
-		System.out.println("You are in HelloBranch");
+		System.out.println("Master")
 	}
 }
